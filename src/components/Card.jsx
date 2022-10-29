@@ -1,9 +1,9 @@
 import React from "react"
 
-export const Cart = () =>{
+export const Cart = (props) =>{
     return(
     <div>
-        I'm A Card
+        I'm {props.name}
     </div>
     )
 };
