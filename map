@@ -1,10 +1,10 @@
 -functional Compnents  X
 -Props   X
--Events X
+-Events X X X
     -onClick X
     -onBlur X
     -onChange x
--Hooks
-    -useState
-    -useEffect
+-Hooks X X
+    -useState X
+    -useEffect X
     -useRef
