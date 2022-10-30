@@ -1,9 +1,9 @@
--functional Compnents
--Props
--Events
-    -onClick
-    -onBlur
-    -onChange
+-functional Compnents  X
+-Props   X
+-Events X
+    -onClick X
+    -onBlur X
+    -onChange x
 -Hooks
     -useState
     -useEffect
